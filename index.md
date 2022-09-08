@@ -1,7 +1,7 @@
 ## About Me
 
 
-I am currently a MPH Candidate at Columbia Mailman School of Public Health. My recent experience includes an internship in [TTi Health Research & Economics](https://tti-research.com/) research consulting division and performing applied virology research at the University of Pittsburgh. 
+I am currently a MPH Candidate at Columbia Mailman School of Public Health graduating in May 2023. My recent experience includes an internship in [TTi Health Research & Economics](https://tti-research.com/) research consulting division and performing applied virology research at the University of Pittsburgh. 
 
 My interests span broadly across various aspects infectious diseases, virology, pandemic preparedness, and public health policy.
 
@@ -22,7 +22,7 @@ I studied comparative healthcare systems, environmental determinants of health, 
 
 
 
-## Publications
+## Publications in Progress
 
 Numerous manuscripts awaiting publication in trade journals through my work at TTi Health Research & Economics 
 
